@@ -17,4 +17,3 @@ try:
         print("\nOpção inválida.")
 except ValueError:
     print("\nEntrada inválida. Por favor, digite um número.")
-
